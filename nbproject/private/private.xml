@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Yuka/Documents/NetBeansProjects/Forum/test/TesteTopicoDAO.java</file>
+            <file>file:/C:/Users/Yuka/Documents/NetBeansProjects/Forum/web/ranking.jsp</file>
+            <file>file:/C:/Users/Yuka/Documents/NetBeansProjects/Forum/web/login.jsp</file>
+            <file>file:/C:/Users/Yuka/Documents/NetBeansProjects/Forum/src/java/model/TopicoDAO.java</file>
+            <file>file:/C:/Users/Yuka/Documents/NetBeansProjects/Forum/src/java/model/UsuarioDAO.java</file>
+            <file>file:/C:/Users/Yuka/Documents/NetBeansProjects/Forum/src/java/model/Topico.java</file>
+            <file>file:/C:/Users/Yuka/Documents/NetBeansProjects/Forum/test/TesteUsuarioDAO.java</file>
+            <file>file:/C:/Users/Yuka/Documents/NetBeansProjects/Forum/src/java/model/Forum.java</file>
+            <file>file:/C:/Users/Yuka/Documents/NetBeansProjects/Forum/web/cadastro.jsp</file>
+            <file>file:/C:/Users/Yuka/Documents/NetBeansProjects/Forum/web/topico.jsp</file>
+            <file>file:/C:/Users/Yuka/Documents/NetBeansProjects/Forum/src/java/controller/AutenticacaoController.java</file>
+            <file>file:/C:/Users/Yuka/Documents/NetBeansProjects/Forum/src/java/model/ComentarioDAO.java</file>
+            <file>file:/C:/Users/Yuka/Documents/NetBeansProjects/Forum/web/index.html</file>
+            <file>file:/C:/Users/Yuka/Documents/NetBeansProjects/Forum/web/insereTopico.jsp</file>
+            <file>file:/C:/Users/Yuka/Documents/NetBeansProjects/Forum/src/java/model/Conn.java</file>
+            <file>file:/C:/Users/Yuka/Documents/NetBeansProjects/Forum/web/topicos.jsp</file>
+            <file>file:/C:/Users/Yuka/Documents/NetBeansProjects/Forum/src/java/model/DAOException.java</file>
+            <file>file:/C:/Users/Yuka/Documents/NetBeansProjects/Forum/src/java/model/Comentario.java</file>
+            <file>file:/C:/Users/Yuka/Documents/NetBeansProjects/Forum/test/TesteComentarioDAO.java</file>
+            <file>file:/C:/Users/Yuka/Documents/NetBeansProjects/Forum/src/java/model/Usuario.java</file>
+        </group>
+    </open-files>
+</project-private>
